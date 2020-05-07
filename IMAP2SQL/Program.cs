@@ -6,7 +6,7 @@ using System.Text;
 using System.IO;
 using System.Net.Mail;
 namespace IMAP2SQL
-{
+{ 
     using S22.Imap;
     class Program
     {
